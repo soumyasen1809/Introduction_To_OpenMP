@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581521866 source:c:\users\soumy\downloads\dx-sera\openmp\2\fork_join\main.c
+	<stdio.h>
+	<omp.h>
+	<stdlib.h>
+

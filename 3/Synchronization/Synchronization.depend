@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581525958 source:c:\users\soumy\downloads\dx-sera\openmp\3\synchronization\main.c
+	<stdio.h>
+	<omp.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581609642 source:c:\users\soumy\downloads\dx-sera\openmp\5\debug_mandelbrot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<omp.h>
+
